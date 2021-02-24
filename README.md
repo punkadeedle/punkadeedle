@@ -8,7 +8,7 @@
 ![Nodejs](https://img.shields.io/badge/-NodeJS-white?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-white?style=flat-square&logo=express&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL)
 ![HTML](https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-white?style=flat-square&logo=css3&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap)
