@@ -4,14 +4,17 @@
 
 ## Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
+![JQuery](https://img.shields.io/badge/-JQuery-white?style=flat-square&logo=jQuery&logoColor=blue)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-white?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-white?style=flat-square&logo=express&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
 ![HTML](https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-white?style=flat-square&logo=css3&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-white?style=flat-square&logo=linux&logoColor=black)
 
 I’m currently learning ...
 <br>
