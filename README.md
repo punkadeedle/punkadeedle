@@ -15,6 +15,7 @@
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-white?style=flat-square&logo=linux&logoColor=black)
+![Heroku](https://img.shields.io/badge/-Heroku-white?style=flat-square&logo=Heroku&logoColor=purple)
 
 I’m currently learning ...
 <br>
