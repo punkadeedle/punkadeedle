@@ -2,12 +2,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-kyannebaker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyanne-baker-9262a44a/)](https://www.linkedin.com/in/kyanne-baker-9262a44a/)
 [![GitHub punkadeedle](https://img.shields.io/github/followers/punkadeedle?label=follow&style=social)](https://github.com/punkadeedle)
 
-I’m currently learning ...
-<br>
-![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=yellow)
-![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=blue)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=kubernetes&logoColor=blue)
-
 ## Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-white?style=flat-square&logo=Node.js)
@@ -19,6 +13,11 @@ I’m currently learning ...
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=black)
 
+I’m currently learning ...
+<br>
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=yellow)
+![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=blue)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=kubernetes&logoColor=blue)
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=punkadeedle&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punkadeedle&layout=compact&theme=vue&hide_title=true&hide_border=true" >
