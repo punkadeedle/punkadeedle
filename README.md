@@ -19,6 +19,7 @@
 
 I’m currently learning ...
 <br>
+![Python](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=blue)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=kubernetes&logoColor=blue)
