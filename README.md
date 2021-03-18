@@ -1,5 +1,5 @@
 ### Hello World!
-[![Linkedin](https://img.shields.io/badge/-kyannebaker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyanne-baker-9262a44a/)](https://www.linkedin.com/in/kyanne-baker-9262a44a/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyanne-baker-9262a44a/)](https://www.linkedin.com/in/kyanne-baker-9262a44a/)
 [![CodePen](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=white&link=https://codepen.io/punkadeedle)](https://codepen.io/punkadeedle/)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/punkadeedle)](https://dev.to/punkadeedle/)
 
